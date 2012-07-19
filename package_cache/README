@@ -70,3 +70,10 @@ A simple load tester can be found in.
 vcap/package_cache/spec/functional/load_test
 
 invoking it without arguments will display the usage message.
+
+
+File a Bug
+------------------------------
+
+To file a bug against Cloud Foundry Open Source and its components, sign up and use our
+bug tracking system: http://cloudfoundry.atlassian.net
